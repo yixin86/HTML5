@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>HTML5</title>
+  <script>document.createElement("myHero")</script>
+  <style>
+  myHero {
+    display: block;
+    background-color: #ddd;
+    padding: 50px;
+    font-size: 30px;
+  }
+  </style>
+</head>
+
+<body>
+
+<h1>第一个H5</h1>
+
+<p>第一个实例。</p>
+
+<myHero>第一个新元素</myHero>
+
+</body>
+</html>
